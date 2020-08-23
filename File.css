@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Srisakdi:wght@700&display=swap');
+
+body{
+background-color: peachpuff;
+font-family: 'Srisakdi', cursive;
+}
+h1{
+    color: rgb(211, 42, 70);
+}
+h2{
+    color: brown;
+    text-decoration:underline;
+}
+button{
+    background:brown;
+    color:white;
+    font: size 120%;
+}
